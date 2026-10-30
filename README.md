@@ -11,7 +11,8 @@ Ahora busco mi siguiente paso en ciencia de datos, análisis de datos o machine 
 | Proyecto | Qué hace | Tecnologías |
 | --- | --- | --- |
 | [Mortalidad intrahospitalaria y valoración enfermera](https://github.com/DiegoSolso/tfm-mortalidad-valenf) | Mi TFM: modelos de supervivencia que predicen la mortalidad durante el ingreso a partir de la valoración enfermera. | R, Julia |
-| [CalistenIA](https://github.com/gtognola/cloud-computing-project) | Proyecto en grupo: una aplicación que analiza vídeos de calistenia con detección de pose y cuenta las repeticiones bien hechas. Yo programé el análisis de los fondos. | Python, MediaPipe, OpenCV, FastAPI |
+| [Detección de arritmias en el ECG](https://github.com/DiegoSolso/deteccion-arritmias-ecg) | Proyecto en pareja: detecta arritmias en tiempo real en una señal de ECG que llega por Kafka, con un modelo que predice cada latido. | Python, PyTorch, Kafka |
+| [CalistenIA](https://github.com/gtognola/cloud-computing-project) | Proyecto en grupo: una aplicación que analiza vídeos de calistenia con detección de pose y cuenta las repeticiones bien hechas. | Python, MediaPipe, OpenCV, FastAPI |
 | [Prácticas de robótica](https://github.com/DiegoSolso/robotics-lab) | Un coche que sigue una línea con control PID y un dron que localiza náufragos con visión por computador. | Python, OpenCV |
 
 ## Herramientas
