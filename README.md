@@ -1,10 +1,10 @@
 # Diego Solsona
 
-Ingeniero informático y máster en Sistemas Inteligentes por la Universitat Jaume I. Me interesa la ciencia de datos y el machine learning: convertir datos reales en modelos que se entiendan y sirvan para tomar decisiones.
+Ingeniero informático y máster en Sistemas Inteligentes por la Universitat Jaume I. Me interesa todo el recorrido de los datos: recogerlos y prepararlos bien, y convertirlos en modelos que se entiendan y sirvan para tomar decisiones.
 
 Antes trabajé como desarrollador de software, en apps iOS y Android y en aplicaciones .NET. De esa etapa me llevo la costumbre de escribir código claro y reproducible.
 
-Ahora busco mi siguiente paso en ciencia de datos, análisis de datos o machine learning.
+Ahora busco mi siguiente paso como data scientist, data engineer o ML engineer.
 
 ## Proyectos
 
@@ -17,8 +17,9 @@ Ahora busco mi siguiente paso en ciencia de datos, análisis de datos o machine 
 
 ## Herramientas
 
-- **Datos y machine learning:** Python, R, SQL, Julia
-- **Desarrollo:** C#, Java, Swift, Kotlin, Git
+- **Datos y machine learning:** Python, R, SQL, Julia, PyTorch
+- **Big data:** Spark, Kafka
+- **Desarrollo:** C#, Java, Swift, Kotlin, Git, Docker
 
 ## Contacto
 
